@@ -89,6 +89,9 @@ I completed a technical interview with a company.
 
 ##E: Feedback and Community Participation
 
+**From Justin Gitlin**
+It’s been a pleasure mentoring Maia during her journey through Turing. From week to week, it was incredible to watch her doubt and frustration turn into confidence and proficiency, as one would expect with sufficient practice, determination and inquisitiveness. Maia is clearly not the type of person to shy away from a challenge, and she turned what likely seemed impossible at times into reality. She’ll do well with her new skill set, and will surely find a unique niche in the industry, having so much to offer beyond being a software developer.
+
 ###Giving Feedback
 
 **To Dylan Avery**    
